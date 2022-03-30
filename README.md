@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## General
+
+The project contains 2 components under the [Component] folder.
+One is for video element, other handles the whole [drag] and [drop] logic for the app.
+
 ## Available Scripts
 
 In the project directory, you can run:

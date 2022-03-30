@@ -4,10 +4,6 @@ import Draggable from "./Component/Draggable.component";
 import VideoElement from "./Component/VideoElement.component";
 
 function App() {
-  const isMobile =
-    Math.min(window.screen.width, window.screen.height) < 768 ||
-    navigator.userAgent.indexOf("Mobi") > -1;
-
   return (
     <Container id="container">
       <Draggable>

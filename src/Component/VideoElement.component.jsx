@@ -6,8 +6,10 @@ export class VideoElement extends Component {
     return (
       <VideoContainer id="dragElement">
         <video
+          id="myVideo"
           controls
-          autoPlay
+          autoPlay={false}
+          onClick={this.props.handleVideoPlayer}
           src="https://s3.amazonaws.com/codecademy-content/courses/React/react_video-fast.mp4"
         />
       </VideoContainer>
