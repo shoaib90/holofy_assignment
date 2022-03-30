@@ -2,7 +2,7 @@
   "name": "holofy_assignment",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shoaib90.github.io/holofy-assignment",
+  "homepage": "https://shoaib90.github.io/holofy_assignment",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
